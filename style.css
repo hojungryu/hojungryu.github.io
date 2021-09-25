@@ -1,0 +1,18 @@
+<html>
+
+    <head>
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+    </head>
+    <body>
+
+    <h1>
+    p{
+        font-size:36px;
+        color:#33485e;
+    }
+    img{
+        width:300px;
+    }
+    <img src="headshot.jpeg"/>
+    </body>
+    </html>
