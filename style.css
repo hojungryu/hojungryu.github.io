@@ -1,12 +1,12 @@
 
+div{padding:sides;
+    padding:40px;
+    }
     h1{
         font-size: 36px;
         color: #33485e;
     }
+
     img{
         width:300px;
     }
-    <img src="headshot.jpeg"/>
-
-    </body>
-    </html>
