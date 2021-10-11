@@ -1,16 +1,22 @@
-.heading1{
+h1{
     font-family: 'Open Sans', sans-serif;
 }
-.heading2{
+h2{
     font-family: 'Lato', sans-serif;
 }
-.heading3 {
+h3{
     font-family: 'Montserrat', sans-serif;
 }
-.heading4 {
+h4 {
     font-family: 'Lato', sans-serif;
 }
-#wireframe-images {
+.description-1 {
+    font-family: 'Lato', sans-serif;
+}
+.description-2{
+    font-family: 'Lato', sans-serif;
+}
+.wireframe-images img{
     width: 300px;
     margin: 15px;
 }
@@ -20,38 +26,36 @@
     padding: 10px;
 
 }
-.color-01{
-    color:#F5FFE9;
+.color-1{
+    /* color:#F5FFE9; */
     background-color:#F5FFE9;
-    height:150px;
-    width:150px;
-    display: inline-block;
     height:150px;
     width:150px;
     display: inline-block;
 }
 .color-2{
-    color:#FFFFB9;
+    /* color:#FFFFB9; */
     background-color:#FFFFB9;
     height:150px;
     width:150px;
     display: inline-block;
 }
 .color-3{
-    color:#E1D57A;
+    /* color:#E1D57A; */
+    background-color:#E1D57A;
     height:150px;
     width:150px;
     display: inline-block;
 }
 .color-4{
-    color:#FE9AAE;
+    /* color:#FE9AAE; */
     background-color:#FE9AAE;
     height:150px;
     width:150px;
     display: inline-block;
 }
 .color-5{
-    color:#B85156;
+    /* color:#B85156; */
     background-color:#B85156;
     height:150px;
     width:150px;
