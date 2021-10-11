@@ -10,11 +10,17 @@ h3{
 h4 {
     font-family: 'Lato', sans-serif;
 }
-.description-1 {
+#description-1 {
     font-family: 'Lato', sans-serif;
 }
-.description-2{
+#description-2{
     font-family: 'Lato', sans-serif;
+}
+.unordered-list{
+    font-family: 'Open Sans', sans-serif;
+}
+.ordered-list{
+    font-family: 'Open Sans', sans-serif;
 }
 .wireframe-images img{
     width: 300px;
