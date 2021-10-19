@@ -103,3 +103,18 @@ background-color:#a33729
     width:150px;
     display: inline-block;
 }
+
+/* clip section */
+.clips {
+    display: flex;
+    flex-wrap: wrap;
+    /* flex direction: column; */
+    gap: 25px;
+}
+.article {
+    display: flex;
+    gap:15px;
+}
+.article div{
+    max-width: 300px;
+}
