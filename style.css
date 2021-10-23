@@ -119,9 +119,9 @@ background-color:#a33729
         padding: 20px;
         text-align: center;
     }
-.skills-content {
-    display:flex;
-    gap: 20px;
+.flex-container.skills-content {
     height:50px;
     width:50px;
+    display:flex;
+    gap: 20px;
 }
