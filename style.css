@@ -114,7 +114,7 @@ background-color:#a33729
         .flex-container.experience div {
             flex-basis:100%;
         }
-footer {
+.copyright {
         color: #a33729;
         padding: 20px;
         text-align: center;
